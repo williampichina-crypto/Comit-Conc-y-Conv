@@ -1,7 +1,8 @@
 Natagaima, Tolima, [día] de [mes] de 2026
 
-**Señor(a)**
-**DIRECTOR(A) GENERAL**
+**Señora**
+**OLGA LUCÍA ALFONSO IANNINI**
+**Directora General**
 **CORPORACIÓN AUTÓNOMA REGIONAL DEL TOLIMA —CORTOLIMA—**
 Ibagué, Tolima
 
@@ -16,13 +17,13 @@ Ibagué, Tolima
 
 ---
 
-Yo, **William Andrés Perdomo Pichiná**, identificado con cédula de ciudadanía No. 5.819.286, actuando como **Vicepresidente de la Junta de Acción Comunal de la Vereda Velú Centro**, respetuosamente solicito información y copias sobre el convenio, la financiación, el seguimiento ambiental y el estado de la Planta de Tratamiento de Aguas Residuales —PTAR— del centro poblado Velú, municipio de Natagaima, Tolima.
+Yo, **William Andrés Perdomo Pichiná**, mayor de edad, identificado con cédula de ciudadanía No. 5.819.286, residente en la vereda Velú Centro del municipio de Natagaima (Tolima), actuando **a título personal como ciudadano**, en ejercicio del derecho fundamental de petición consagrado en el artículo 23 de la Constitución Política y regulado por la Ley 1755 de 2015, y en concordancia con el derecho a gozar de un ambiente sano (artículo 79 de la Constitución Política), respetuosamente solicito información y copias sobre el convenio, la financiación, el seguimiento ambiental y el estado de la Planta de Tratamiento de Aguas Residuales —PTAR— del centro poblado Velú, municipio de Natagaima, Tolima.
 
-La solicitud tiene como finalidad apoyar la formulación comunitaria de un diagnóstico integral, promover la protección ambiental y facilitar la coordinación entre CORTOLIMA, la Alcaldía Municipal, el operador del sistema y la comunidad.
+La solicitud tiene como finalidad apoyar la formulación de un diagnóstico integral, promover la protección ambiental y facilitar la coordinación entre CORTOLIMA, la Alcaldía Municipal, el operador del sistema y la comunidad.
 
 ## 1. Antecedente identificado
 
-La JAC Velú Centro encontró en SECOP I la Resolución Administrativa No. 116 de 2017, expedida por la Alcaldía Municipal de Natagaima el 11 de abril de 2017, mediante la cual se abrió la Licitación Pública No. 01 de 2017 para la:
+Se encontró en SECOP I la Resolución Administrativa No. 116 de 2017, expedida por la Alcaldía Municipal de Natagaima el 11 de abril de 2017, mediante la cual se abrió la Licitación Pública No. 01 de 2017 para la:
 
 > “Construcción de una Planta de Tratamiento de Aguas Residuales del centro poblado Velú, municipio de Natagaima, Tolima”.
 
@@ -30,7 +31,7 @@ En el documento aparece el Convenio CORTOLIMA No. 060 del 31 de diciembre de 201
 
 También se registra un CDP municipal por $10.423.064,20, para construcción, mantenimiento, mejoramiento y adecuación de plantas de tratamiento de aguas residuales, para un presupuesto oficial total indicado de $372.252.293,07.
 
-La Junta aclara que la resolución consultada corresponde a la apertura del proceso y solicita confirmar documentalmente la ejecución y el seguimiento desde la competencia de CORTOLIMA.
+Se aclara que la resolución consultada corresponde a la apertura del proceso y se solicita confirmar documentalmente la ejecución y el seguimiento desde la competencia de CORTOLIMA.
 
 ## 2. Información y documentos del Convenio No. 060 de 2016
 
@@ -79,13 +80,13 @@ Solicito a CORTOLIMA indicar:
 4. Qué obligaciones existen para el manejo y disposición de lodos.
 5. Qué información debe contener el plan de operación y mantenimiento.
 6. Qué entidad debe responder por el seguimiento ambiental y el mantenimiento de la infraestructura.
-7. Si es procedente realizar una visita técnica conjunta con la Alcaldía, la JAC y el operador.
+7. Si es procedente realizar una visita técnica conjunta con la Alcaldía, la comunidad y el operador.
 
 Solicito programar una visita o mesa técnica, dentro del ámbito de competencia de CORTOLIMA, para revisar documental y físicamente el estado de la PTAR y definir la ruta ambiental aplicable.
 
 ## 5. Articulación con la Alcaldía y antecedentes de contratación de 2026
 
-La JAC informa que en SECOP I identificó los siguientes procesos recientes de la Alcaldía de Natagaima, que se presentan como referentes institucionales para la gestión de estudios y obras de agua y saneamiento:
+Se informa que en SECOP I se identificaron los siguientes procesos recientes de la Alcaldía de Natagaima, que se presentan como referentes institucionales para la gestión de estudios y obras de agua y saneamiento:
 
 | Proceso | Objeto resumido | Valor informado | Fecha del primer contrato |
 |---|---|---|---|
@@ -98,9 +99,7 @@ Estos procesos no se presentan como antecedentes contractuales de la PTAR de Vel
 
 La solicitud se presenta con fundamento en:
 
-- Constitución Política, artículos 2, 49, 79, 80 y 365, sobre fines del Estado, saneamiento ambiental, ambiente sano, protección de los recursos naturales y finalidad social de los servicios públicos.
-- Ley 2166 de 2021, artículos 1, 2, 3 y 16, sobre acción comunal, desarrollo comunitario, planeación participativa, protección ambiental y gestión de proyectos.
-- Ley 2166 de 2021, artículo 95, cuando resulte procedente analizar convenios solidarios o instrumentos de colaboración con la JAC.
+- Constitución Política, artículos 2, 23, 49, 79, 80 y 365, sobre fines del Estado, derecho de petición, saneamiento ambiental, ambiente sano, protección de los recursos naturales y finalidad social de los servicios públicos.
 - Ley 142 de 1994, sobre servicios públicos domiciliarios y saneamiento básico.
 - Ley 1437 de 2011, artículo 13, sustituido por la Ley 1755 de 2015, sobre el derecho fundamental de petición.
 - Ley 1712 de 2014, sobre transparencia y acceso a la información pública.
@@ -114,12 +113,12 @@ La solicitud se presenta con fundamento en:
 Solicito que la respuesta sea remitida a:
 
 - Nombre: William Andrés Perdomo Pichiná.
-- Cargo: Vicepresidente de la JAC Velú Centro.
+- Calidad: Ciudadano – vereda Velú Centro, Natagaima (Tolima).
 - Dirección: Vereda Velú Centro, casa 88.
 - Correo: william.perdomo@esap.edu.co.
 - Teléfono: 3195874187.
 
-Solicito indicar el número de radicado y responder de fondo, de manera clara, precisa y congruente, dentro de los términos legales aplicables.
+Solicito que la información y las copias se remitan preferiblemente en formato digital (PDF) al correo electrónico indicado, y que se responda de fondo, de manera clara, precisa y congruente, indicando el número de radicado, dentro de los términos legales aplicables.
 
 Atentamente,
 
@@ -127,13 +126,11 @@ Atentamente,
 
 _________________________________________
 **William Andrés Perdomo Pichiná**
-Vicepresidente
-Junta de Acción Comunal Velú Centro
-C.C. 5.819.286
+Ciudadano – Vereda Velú Centro, Natagaima (Tolima)
+C.C. No. 5.819.286
 
 **Anexos:**
 
 1. Copia de la Resolución Administrativa No. 116 de 2017.
 2. Extracto del documento de apertura del proceso identificado en SECOP I.
-3. Relación de procesos municipales de 2026 identificados por la JAC.
-4. Acta de autorización de la JAC.
+3. Relación de procesos municipales de 2026 identificados.
