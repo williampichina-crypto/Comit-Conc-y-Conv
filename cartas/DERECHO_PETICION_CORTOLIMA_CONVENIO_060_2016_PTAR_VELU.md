@@ -4,6 +4,7 @@ Natagaima, Tolima, [día] de [mes] de 2026
 **OLGA LUCÍA ALFONSO IANNINI**
 **Directora General**
 **CORPORACIÓN AUTÓNOMA REGIONAL DEL TOLIMA —CORTOLIMA—**
+Atención: Subdirección de Administración de Recursos Naturales
 Ibagué, Tolima
 
 **Con copia a:**
@@ -56,19 +57,20 @@ Si el convenio o sus anexos no se encuentran en los archivos de CORTOLIMA, solic
 
 Solicito informar y remitir copia de:
 
-1. Expediente ambiental de la PTAR y del punto de vertimiento asociado.
-2. Permiso de vertimientos, si fue solicitado u otorgado, indicando número, fecha, titular, punto autorizado, vigencia y obligaciones.
-3. PSMV aplicable al centro poblado Velú, si fue presentado, evaluado, aprobado, actualizado o requerido.
-4. Conceptos técnicos, resoluciones, autos, requerimientos y comunicaciones relacionados con la PTAR.
-5. Visitas de seguimiento realizadas por CORTOLIMA desde 2016 hasta la fecha.
-6. Actas de visita, informes técnicos y resultados de seguimiento.
-7. Requerimientos de mantenimiento, operación, caracterización o cumplimiento de límites de vertimiento.
-8. Procesos sancionatorios, medidas preventivas o actuaciones administrativas, si existen.
-9. Caracterizaciones de aguas residuales o vertimientos recibidas por CORTOLIMA.
-10. Reportes de cumplimiento de la Resolución 0631 de 2015 u otra norma ambiental aplicable.
-11. Información sobre el cuerpo receptor, punto de descarga y condiciones ambientales identificadas.
-12. Obligaciones vigentes de la Alcaldía, prestador, administrador u operador del sistema.
-13. Requisitos actuales para actualizar, obtener o modificar permisos ambientales relacionados con la PTAR.
+1. **Informe por parte de la Subdirección de Administración de Recursos Naturales de CORTOLIMA, respecto al control y seguimiento que se le ha realizado a la PTAR** del centro poblado Velú (Natagaima), indicando las actuaciones adelantadas, sus fechas, hallazgos, requerimientos efectuados y su estado de cumplimiento.
+2. Expediente ambiental de la PTAR y del punto de vertimiento asociado.
+3. Permiso de vertimientos, si fue solicitado u otorgado, indicando número, fecha, titular, punto autorizado, vigencia y obligaciones.
+4. PSMV aplicable al centro poblado Velú, si fue presentado, evaluado, aprobado, actualizado o requerido.
+5. Conceptos técnicos, resoluciones, autos, requerimientos y comunicaciones relacionados con la PTAR.
+6. Visitas de seguimiento realizadas por CORTOLIMA desde 2016 hasta la fecha.
+7. Actas de visita, informes técnicos y resultados de seguimiento.
+8. Requerimientos de mantenimiento, operación, caracterización o cumplimiento de límites de vertimiento.
+9. Procesos sancionatorios, medidas preventivas o actuaciones administrativas, si existen.
+10. Caracterizaciones de aguas residuales o vertimientos recibidas por CORTOLIMA.
+11. Reportes de cumplimiento de la Resolución 0631 de 2015 u otra norma ambiental aplicable.
+12. Información sobre el cuerpo receptor, punto de descarga y condiciones ambientales identificadas.
+13. Obligaciones vigentes de la Alcaldía, prestador, administrador u operador del sistema.
+14. Requisitos actuales para actualizar, obtener o modificar permisos ambientales relacionados con la PTAR.
 
 ## 4. Solicitud de orientación y visita técnica
 
