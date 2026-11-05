@@ -128,9 +128,3 @@ _________________________________________
 **William Andrés Perdomo Pichiná**
 Ciudadano – Vereda Velú Centro, Natagaima (Tolima)
 C.C. No. 5.819.286
-
-**Anexos:**
-
-1. Copia de la Resolución Administrativa No. 116 de 2017.
-2. Extracto del documento de apertura del proceso identificado en SECOP I.
-3. Relación de procesos municipales de 2026 identificados.
